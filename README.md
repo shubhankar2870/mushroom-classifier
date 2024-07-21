@@ -1,7 +1,5 @@
-# iNeuron_Mushroom_Classification
-The complete end to end project with deployment on heroku.
-
-<b>App Link :</b> https://mushroom-classification-ml-api.herokuapp.com/ -->> expired
+# Mushroom_Classification
+The complete end to end project.
 
 <b>New Link :</b> https://mushroom-classification-944w.onrender.com
 
